@@ -225,7 +225,7 @@ const stakingAmount = ref();
 const tokenBalance=ref();
 const estimatedReward=ref(0);
 
-const web3 = new Web3("http://203.161.32.166:8545");
+const web3 = new Web3("https://inoai-network.com");
 const stakingContract = new web3.eth.Contract(stakingAbi, stakingAddress);
 const aprRate = reactive([
   {
