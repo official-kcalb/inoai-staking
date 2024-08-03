@@ -1,0 +1,19 @@
+blockchain type: POA (Proof of Authority)
+consensus algorithm: clique (can be changed when resetting blockchain if you want)
+ETHEREUM_JSONRPC_VARIANT: geth
+explorer url: http://inoai.live
+rpc url: https://inoai-network.com
+ws url: ws://203.161.32.166:8552
+chainId: 88559
+network-name: Inoai Network
+rest api base url: https://inoai.live/api/v2
+rest api docs url: https://inoai.live/api-docs
+graphql api palygroud url: https://inoai.live/graphiql
+Native token full name: INØ Coin
+Native token symbol: INØ
+total supply native INØ:888879444448000000000000000000+1888888000000000000000000+1888888000000000000000000
+wrapped INØ token: WINØ
+WINØ contract address:...  (need to update symbol and will provide after update)
+swap contract addresses i.e factory contract and router contarct address:...  (will provide after blockchain reset and finalize)
+chainlist search ino network url: https://chainlist.org/?search=88559
+gas limit: 30000000 (can be changed when reseting blockchain)
