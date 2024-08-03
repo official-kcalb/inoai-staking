@@ -4,7 +4,7 @@ app:{
   head:{
     title:"INO Staking"
   },
-  baseURL:"/inoai-staking",
+  baseURL:"/",
   buildAssetsDir:"assets"
 },
 

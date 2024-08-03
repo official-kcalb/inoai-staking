@@ -10,17 +10,17 @@
     >
       <div class="hidden md:flex md:items-center space-x-2">
         <img
-          src="../assets/images/N png.png"
+          src="../assets/images/logoKCALB.png"
           alt="INOAI"
           class="h-8 w-8 rounded-full"
           width="40"
           height="40"
           style="aspect-ratio: 40 / 40; object-fit: cover"
         />
-        <span class="text-xl font-bold text-[#FFFDFD ]">Inoai</span>
+        <span class="text-xl font-bold text-[#FFFDFD ]">Kcalb</span>
       </div>
       <nav class="md:flex flex-row space-x-4 mt-0">
-        <NuxtLink to="/">
+        <!-- <NuxtLink to="/">
           <p
 
             class="text-md text-[#FFFDFD ] hover:border-[#e53bb8] hover:border-b-[2px] hover:text-[#e53bb8]"
@@ -36,11 +36,11 @@
     >
       ROADMAP
 </p>
-</NuxtLink>
+</NuxtLink> -->
         <!-- <a href="#" class="text-md text-[#c4cfde] hover:border-[#e53bb8] hover:border-b-[2px] hover:text-[#e53bb8]">
                     CRE8R
                 </a> -->
-        <NuxtLink to="/stake">
+        <NuxtLink to="/">
           <p
 
             class="text-md  hover:border-[#e53bb8] hover:border-b-[2px] hover:text-[#e53bb8]"
