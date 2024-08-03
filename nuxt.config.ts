@@ -3,8 +3,11 @@ export default defineNuxtConfig({
 app:{
   head:{
     title:"INO Staking"
-  }
+  },
+  baseURL:"/inoai-staking",
+  buildAssetsDir:"assets"
 },
+
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   modules: ["@nuxt/ui", "@nuxtjs/google-fonts", "@pinia/nuxt", "nuxt-aos"],
